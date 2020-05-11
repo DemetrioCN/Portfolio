@@ -1,6 +1,7 @@
-# Portfolio
-Skills about Machine Learning
-
+# Portafolio
+<p align="center">
+  <img src="yo_mates.jpeg" width="350" title="Mi_foto">
+</p>
 ![Alt text](yo_mates.jpeg?raw=true "Title")
 
 Hola, soy Demetrio.
