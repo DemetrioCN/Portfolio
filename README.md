@@ -1,6 +1,7 @@
 # Portfolio
 Skills about Machine Learning
 
+![alt text](http://yo_mates.jpeg)
 
 Hola, soy Demetrio.
 
